@@ -2,14 +2,14 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package com.mycompany.dsa_act2d;
+package com.mycompany.dsa_act2c;
 import java.util.Scanner;
 
 /**
  *
  * @author Windows
  */
-public class Dsa_act2d {
+public class FACUNDsa_act2c {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in); //Scanner
